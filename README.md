@@ -4,11 +4,13 @@ Atelier d'introduction à Git
 Répondez aux questions ci-dessous:
 
 Quel est votre passe-temps préféré en dehors des cours?
+
 Les jeux vidéos, lire et apprendre de nouvelles choses
 
 Préférez-vous travailler en groupe ou seul(e) pour résoudre des problèmes? Pourquoi?
+
 Les deux ont leurs avantages et inconvénient :
-- En équipe, on bénéficie de l'expertise et des idées de tous le monde, et puis on a
+- En équipe, on bénéficie de l'expertise et des idées de tout le monde, et puis on a
   de mains à la pâte, et plus le travail avance vite. Cependant, le travail d'équipe
   peut parfois laisser place aux désaccords. De plus, si nos coéquipiers ne travaillent
   pas, on se retrouve à devoir compenser pour tout monde.
